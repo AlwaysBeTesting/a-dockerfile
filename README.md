@@ -43,4 +43,5 @@ Just start a container, make necessary changes and then commit the changes to th
 
 `docker rmi  <author>/<image>:<tag>`
 
-## Using a docker fi
+## Using a Dockerfile
+`docker build -t ncariss/just-a-test .`
