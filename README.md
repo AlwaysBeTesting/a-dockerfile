@@ -1,7 +1,8 @@
 # Glossary
-## Docker container
 ## Docker image
-Every container is an instance of a Docker image.
+The base of Docker containers. Every container is an instance of a Docker image.
+## Docker container
+A runnable instance of an image
 ## Docker compose
 
 # Starting a docker container
